@@ -1,2 +1,2 @@
 # maria
- Um assistentevirtual feito em python.
+ Um assistente virtual feito em python.
